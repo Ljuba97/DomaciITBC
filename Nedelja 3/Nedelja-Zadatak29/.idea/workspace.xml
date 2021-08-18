@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cebe1888-6faa-46a7-8fa0-895544b2ce03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nedelja-Zadatak29.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadatak29.java" afterDir="false" />
+    <list default="true" id="cebe1888-6faa-46a7-8fa0-895544b2ce03" name="Default Changelist" comment="Zadatak 29 - domaci">
       <change afterPath="$PROJECT_DIR$/../Nedelja/Nedelja.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1629128610846</updated>
     </task>
+    <task id="LOCAL-00001" summary="Zadatak 29 - domaci">
+      <created>1629128714438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629128714438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +59,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zadatak 29 - domaci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 29 - domaci" />
   </component>
 </project>
