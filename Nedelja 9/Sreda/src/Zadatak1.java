@@ -14,7 +14,6 @@ public class Zadatak1 {
 
         //Pomnoziti svaki neparan broj sa 2 i izbaciti duplikate
         List<Integer> arr = Arrays.asList(1, 2, 3, 3, 4, 2, 5, 6, 9, 10, 12, 7, 5);
-        HashSet<Integer> set = arr.stream().map(x -> x % 2 != 0 ? x * 2 : x).collect(Collectors.toCollection(HashSet::new));
-        System.out.println(set);
+        System.out.println(arr.stream().map(x -> x % 2 != 0 ? x * 2 : x).distinct().collect(Collectors.toList()));
     }
 }
