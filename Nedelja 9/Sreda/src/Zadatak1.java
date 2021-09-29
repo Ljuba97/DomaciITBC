@@ -10,7 +10,7 @@ public class Zadatak1 {
         System.out.println(list.stream().filter(x -> x % 3 == 0).map(x -> x + 2).collect(Collectors.toList()));
 
         //Izbaciti sve brojeve koji su deljivi sa 3 prilikom njihovog dupliranja
-        System.out.println(list.stream().map(x -> x * x).filter(x -> x % 3 != 0).collect(Collectors.toList()));
+        System.out.println(list.stream().map(x -> x * 2).filter(x -> x % 3 != 0).collect(Collectors.toList()));
 
         //Pomnoziti svaki neparan broj sa 2 i izbaciti duplikate
         List<Integer> arr = Arrays.asList(1, 2, 3, 3, 4, 2, 5, 6, 9, 10, 12, 7, 5);
